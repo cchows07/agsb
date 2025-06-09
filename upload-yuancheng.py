@@ -13,7 +13,7 @@ from datetime import datetime
 
 # 配置
 TMATE_URL = "https://github.com/zhumengkang/agsb/raw/main/tmate"
-UPLOAD_API = "https://free1.ynxk.dpdns.org/api/upload"
+UPLOAD_API = "https://https://file.zmkk.fun/api/upload"
 USER_HOME = Path.home()
 SSH_INFO_FILE = "ssh.txt"  # 可以自定义文件名
 
